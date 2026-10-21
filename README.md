@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @burakbengi
-- 👀 I’m interested in enterprise software architecture and orchestration of ML models to create software solutions
-- 🌱 I’m currently trying to:
-  - automate ML prompting for Enterprise customers
-  - setup Catena-X for Enterprise customers
-- 💞️ I’m looking to collaborate on dataspace integration, network of networks
-- 📫 How to reach me [@burakbengi](https://www.linkedin.com/in/vbbengi)
+# 👋 Hi, I'm Burak
 
-<!---
-burakbengi/burakbengi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior System Architect at **Mercedes-Benz AG** · Berlin
+Enterprise architecture · Developer platforms · AI in enterprise tooling
+
+## 🚀 Currently working on
+- **Enterprise developer platform** – co-founding architect of a large-scale internal developer platform serving thousands of developers
+  - Unified identity across platform products (OIDC)
+  - Platform consolidation and capability-based architecture governance
+- **Software engineering governance** – company-wide developer experience and enterprise architecture standards
+- **AI for developer productivity** – Action templates, integrations, local-LLM workflows embedded in enterprise tooling instead of separate silos
+- **Legal tech** – local LLM solutions for a boutique law firm in Istanbul
+
+## 🕰️ Previously
+- **Catena-X** (until 2024) – Business Domain Architect: portal/marketplace and federated dataspace architecture, EDC deployment, Catena-X onboarding for enterprise customers
+- **Enterprise ML prompting** – automating ML/LLM prompting for enterprise customers
+- **UNICORE @ Forschungszentrum Jülich** – grid and HPC middleware for federated access to supercomputing resources
+
+## 💞️ Open to collaborate on
+Dataspaces & network of networks · Developer platforms · AI-assisted engineering
+
+## 📫 Reach me
+[LinkedIn](https://www.linkedin.com/in/vbbengi)
