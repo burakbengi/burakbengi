@@ -4,7 +4,7 @@
   - automate ML prompting for Enterprise customers
   - setup Catena-X for Enterprise customers
 - 💞️ I’m looking to collaborate on dataspace integration, network of networks
-- 📫 How to reach me [@burakbengi]([https://www.linkedin.com/in/vbbengi])
+- 📫 How to reach me [@burakbengi](https://www.linkedin.com/in/vbbengi)
 
 <!---
 burakbengi/burakbengi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
