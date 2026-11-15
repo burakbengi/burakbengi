@@ -5,7 +5,7 @@ Enterprise architecture · Developer platforms · AI in enterprise tooling
 
 ## 🚀 Currently working on
 - **Enterprise developer platform** – co-founding architect of a large-scale internal developer platform serving thousands of developers
-  - Unified identity across platform products (OIDC)
+  - Unified identity across platform products
   - Platform consolidation and capability-based architecture governance
 - **Software engineering governance** – company-wide developer experience and enterprise architecture standards
 - **AI for developer productivity** – Action templates, integrations, local-LLM workflows embedded in enterprise tooling instead of separate silos
